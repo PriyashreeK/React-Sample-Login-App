@@ -1,0 +1,33 @@
+.Login {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Login .emailDiv label{
+    margin-right: 129px;
+    color: gray;
+}
+
+.Login .emailDiv input{
+    height: 30px;
+    border-color: lightgray;
+}
+
+.Login .pwdDiv label{
+    margin-right: 101px;
+    color: gray;
+}
+
+.Login .pwdDiv input{
+    height: 30px;
+    border-color: lightgray;
+}
+
+.Login .submitBtn button{
+    width: 100%;
+    height: 30px;
+    background-color:#4285f4;
+    color: #fff;
+    border: none;
+}
